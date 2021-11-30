@@ -22,7 +22,7 @@ A simple local area network multiperson chat room application based on socket.
 - Close client without any error on server
 
 ## Requirements
-- The screen size of phone must be 1080×2220
+- The screen size of phone must be 1080×2220 (Google Pixel 3a)
 - Only support running on emulator
     1. Type `adb devices` to see the indexes of running server device and clients devices
 
