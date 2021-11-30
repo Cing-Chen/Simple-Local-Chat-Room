@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="start_up_page_name_text">Name:</string>
+    <string name="start_up_page_ip_text">Ip:</string>
+    <string name="start_up_page_port_text">Port:</string>
+    <string name="start_up_page_clientNameBlock_hint">Please enter client name...</string>
+    <string name="start_up_page_serverIpBlock_hint">Please enter server ip...</string>
+    <string name="start_up_page_serverPortBlock_hint">Please enter server port...</string>
+    <string name="start_up_page_connectButton_text">CONNECT</string>
+    <string name="chat_room_page_hi_text">Hi!</string>
+    <string name="chat_room_page_clientName_text">Client Name</string>
+    <string name="chat_room_page_chatBlock_text"></string>
+    <string name="chat_room_page_typeBlock_hint">Say Something...</string>
+    <string name="chat_room_page_leaveButton_text">LEAVE</string>
+    <string name="chat_room_page_sendButton_text">SEND</string>
+</resources>
