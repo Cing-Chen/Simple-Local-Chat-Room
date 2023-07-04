@@ -1,5 +1,6 @@
 # Simple-Local-Chat-Room
-A simple local area network multiperson chat room application based on socket.
+
+This repository is the project of the Programming Special Project on Internet of Things and Social Robot course during the autumn semester of 2021 at NCU.
 
 ## Functions
 ### Server
